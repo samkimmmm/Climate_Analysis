@@ -11,7 +11,7 @@ In this challenge, I conducted a comprehensive climate analysis and data explora
 * Numpy
   
 # Part 1: Analyze and Explore the Climate Data
-After successfully connecting to the SQLite Database and reflecting tables into classes, I established a link between Python and the database by creating a SQLAlchemy session.
+In this section, I performed a detailed analysis and exploration of the climate data in Honolulu, Hawaii. The following steps outline the key aspects of the analysis.
 <img width="475" alt="Screenshot 2023-12-18 at 3 05 11 PM" src="https://github.com/samkimmmm/sqlalchemy-challenge/assets/135805393/1360741f-fe03-4f37-bd55-e3ebaa235def">
 
 # Precipitation Analysis
